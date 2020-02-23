@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Eric Lieu 
+**USF email address**: elieu@dons.usfca.edu 
